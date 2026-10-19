@@ -40,7 +40,3 @@ AI & Data Science Engineering student from Nashik, India
 - 💻 **GitHub:** [Omsuryawanshi02](https://github.com/Omsuryawanshi02)
 - 💼 **LinkedIn:** [Connect with me](www.linkedin.com/in/om-suryawanshi-648795342)
 - 📧 **Email:** omsuryawanshi006@gmail.com
-
----
-
-💡 *Building, learning, and turning ideas into practical solutions with AI and data.*
