@@ -38,7 +38,7 @@ AI & Data Science Engineering student from Nashik, India
 
 - 🌐 **Portfolio:** [My Portfolio](https://om-suryawanshi-portfolio-website.vercel.app/)
 - 💻 **GitHub:** [Omsuryawanshi02](https://github.com/Omsuryawanshi02)
-- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/)
+- 💼 **LinkedIn:** [Connect with me](www.linkedin.com/in/om-suryawanshi-648795342)
 - 📧 **Email:** omsuryawanshi006@gmail.com
 
 ---
