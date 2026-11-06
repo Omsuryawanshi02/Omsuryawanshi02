@@ -12,8 +12,9 @@ AI & Data Science Engineering student from Nashik, India
 
 - **Languages:** Python, C++, SQL, JavaScript
 - **AI/ML:** Scikit-learn, TensorFlow, XGBoost, Pandas, NumPy
-- **AI & Agents:** RAG, LLM applications, AI agents, LangChain fundamentals
+- **AI & Agents:** RAG, LLM applications, AI agents, LangChain & Langgraph fundamentals
 - **Tools:** Git, GitHub, VS Code, Jupyter Notebook
+- **Devops** Linux,Jenkins,Docker,AWS
 
 ## 🚀 What I'm Building
 - 🤖 **Capstone Multi-Agent Code Helper** — An AI-powered code assistant project designed to help developers understand code, analyze programming problems, and get intelligent coding support through an agent-based workflow.
